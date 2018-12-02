@@ -1,4 +1,5 @@
 #!/bin/bash
+####################################################################
 # author: Nikolas Schnellbaecher
 # contact: khx0@posteo.net
 # date: 2018-12-02
