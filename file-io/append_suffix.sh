@@ -1,8 +1,7 @@
 #!/bin/bash
 # author: Nikolas Schnellbaecher
 # contact: khx0@posteo.net
-# file: stitch.sh
-# date: 2018-12-01
+# date: 2018-12-02
 # file: append_suffix.sh
 ####################################################################
 
